@@ -26,6 +26,3 @@ The project utilizes companys sales data, which monhtly time series data represe
 
 CONCLUSION:
 This project provides valuable insights into the data requirements for accurate demand forecasting. By comparing traditional statistical models (Holt-Winters, ARIMA, SARIMA) with a deep learning-based model (LSTM), which helps to practitioners in selecting the appropriate forecasting technique for business specific domain. 
-
-Video recording:
-https://westminster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=320a26c9-9eae-41ad-9458-b27d00c7e5c2
